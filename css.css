@@ -1,0 +1,84 @@
+body {
+	background-color:#85C185;
+	text-align:center;
+	padding:0px;
+	margin:0px;
+	font-family:"Lucida Console", Monaco, monospace;
+}
+#Banner {
+	background-image:url("Images/greenback.jpg");
+}
+#BannerImage {
+	width:33%;
+	background-color:#A5A5A5;
+}
+#TopPortion {
+	border-left:3px #338533 solid;
+	border-right:3px #338533 solid;
+}
+#LinkBar {
+	background-color:#338533;
+}
+.LinkBarImage {
+	height:50px;
+}
+#LinkSideBar {
+	text-align:left;
+	width:20%;
+	float:left;
+}
+.LinkSideBarLink {
+	margin-left:40px;
+	margin-right:40px;
+	width:100%;
+	color:#DBEDDB;
+	text-decoration:none;
+	font-size:30px;
+}
+#NewsFeed {
+	background-color:#649191;
+	color:#338533;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	width:60%;
+	float:left;
+}
+#TwitterArea {
+	float:right;
+	width:20%
+}
+#NewsTeaser {
+	border:none;
+	width:100%;
+}
+#RobotStrip {
+	background-color:#338533;
+	width:100%;
+	float:left;
+}
+#Main {
+	color:White;
+	float:left;
+	width:100%;
+	font-size:20px;
+	
+}
+#TeamInfoTitle {
+	font-size:36px;
+	color:White;
+	/*background:url("Images/Default Bubble.png");
+	background-repeat:no-repeat;
+	background-size:auto 100%;*/
+}
+.GreenLine {
+	height:20px;
+	background-color:#338533;
+	border:none;
+	margin:0px;
+}
+.MainLink {
+	color:White;
+	font-size:36px;
+}
+#OurTeam {
+	font-size:19px;
+}
