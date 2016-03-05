@@ -1,3 +1,3 @@
 # 5086SiteCode
 
-Don't steal pls
+Don't steal please!
