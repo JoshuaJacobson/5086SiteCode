@@ -10,7 +10,6 @@ body {
 }
 #BannerImage {
 	width:33%;
-	background-color:#A5A5A5;
 }
 #TopPortion {
 	border-left:3px #338533 solid;
@@ -49,6 +48,7 @@ body {
 #NewsTeaser {
 	border:none;
 	width:100%;
+	height:130px;
 }
 #RobotStrip {
 	background-color:#338533;
@@ -81,4 +81,34 @@ body {
 }
 #OurTeam {
 	font-size:19px;
+}
+#CodersCorner {
+	font-size:22px;
+}
+#News {
+	font-size:15px;
+}
+#Resources {
+	font-size:22px;
+}
+#Footer {
+	float:left;
+}
+.NewsImage {
+	height:100px;
+	width:auto;
+}
+.BigImage {
+	height:auto;
+	width:100%;
+}
+#NewsFeedReal {
+	background-color:#649191;
+	color:#333;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	width:60%;
+	float:left;
+}
+#NewsTitle {
+	color:white;
 }
